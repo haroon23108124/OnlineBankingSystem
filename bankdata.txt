@@ -1,0 +1,2 @@
+user1 pass1 500.0
+user2 pass2 1000.0
