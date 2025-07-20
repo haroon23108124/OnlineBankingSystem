@@ -29,7 +29,7 @@ This project simulates essential banking operations using core Data Structures a
 3. Interact with the terminal-based banking system.
 
 ## 📈 Future Enhancements
-- GUI Integration
+- GUI Integration or website hosting
 - Database support (MySQL)
 - Encryption for secure data
 - Advanced sorting algorithms
