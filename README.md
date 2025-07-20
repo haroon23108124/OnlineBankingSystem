@@ -27,7 +27,7 @@ This project simulates essential banking operations using core Data Structures a
 1. Open the `.cpp` file in any C++ IDE (like DevC++, Visual Studio).
 2. Build and run the program.
 3. Interact with the terminal-based banking system.
-![Project Banner](images/banner1.png) 
+
 ## 📈 Future Enhancements
 - GUI Integration or website hosting
 - Database support (MySQL)
