@@ -60,7 +60,7 @@ public:
         rename("temp.txt", filename.c_str());
     }
 };
-
+//bank class for bank opration 
 class Bank {
 private:
     string filename;
